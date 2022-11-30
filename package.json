@@ -1,0 +1,12 @@
+{
+  "name": "custom-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "custom-ui": "pnpm --filter custom-ui"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
